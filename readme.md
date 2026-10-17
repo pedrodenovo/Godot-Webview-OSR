@@ -1,4 +1,4 @@
-# godot-webview-osr
+# Godot Webview OSR
 
 A lightweight, cross-platform **Off-Screen Rendering (OSR)** WebView extension for **Godot 4** via GDExtension.
 
